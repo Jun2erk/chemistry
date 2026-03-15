@@ -352,6 +352,11 @@
   box-sizing:border-box;
   width:100%;
 }
+#u33_img.mouseOver {
+}
+#u33.mouseOver {
+  opacity:0.8;
+}
 #u33_text {
   border-width:0px;
   word-wrap:break-word;
@@ -534,7 +539,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:70px;
+  top:69px;
   width:1490px;
   height:600px;
   display:flex;
@@ -565,7 +570,7 @@
   border-width:0px;
   position:absolute;
   left:255px;
-  top:308px;
+  top:307px;
   width:980px;
   height:73px;
   display:flex;
